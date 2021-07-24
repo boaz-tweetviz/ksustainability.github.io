@@ -8,8 +8,10 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@200;900&display=swap');
+
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family:  'Gothic A1', sans-serif;
   color: #444444;
 }
 
