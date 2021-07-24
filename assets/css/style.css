@@ -26,7 +26,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+  font-family:  'Gothic A1', sans-serif;
 }
 
 #main {
@@ -154,7 +154,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /*--------------------------------------------------------------
 # Header Social Links
---------------------------------------------------------------*/
+-------------------------------------------------------------
 .header-social-links {
   padding-right: 15px;
 }
@@ -171,6 +171,7 @@ h1, h2, h3, h4, h5, h6 {
 .header-social-links a:hover {
   color: #34b7a7;
 }
+*/
 
 /*--------------------------------------------------------------
 # Navigation Menu
@@ -199,7 +200,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  font-family: "Raleway", sans-serif;
+  font-family:  'Gothic A1', sans-serif;
   font-size: 15px;
   font-weight: 600;
   color: #888888;
@@ -409,7 +410,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top right;
+  background: url("../img/background_palace_edited.png") top right;
   background-size: cover;
 }
 
@@ -439,7 +440,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-about {
-  font-family: "Raleway", sans-serif;
+  font-family:  'Gothic A1', sans-serif;
   text-transform: uppercase;
   font-weight: 600;
   font-size: 12px;
@@ -543,7 +544,7 @@ section {
 }
 
 .cta .cta-btn {
-  font-family: "Raleway", sans-serif;
+  font-family:  'Gothic A1', sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 16px;
@@ -620,7 +621,7 @@ section {
   text-transform: uppercase;
   display: block;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family:  'Gothic A1', sans-serif;
   color: #222222;
 }
 
@@ -652,7 +653,7 @@ section {
 .facts .counters p {
   padding: 0;
   margin: 0 0 20px 0;
-  font-family: "Raleway", sans-serif;
+  font-family:  'Gothic A1', sans-serif;
   font-size: 14px;
 }
 
@@ -755,7 +756,7 @@ section {
   line-height: 18px;
   font-size: 18px;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family:  'Gothic A1', sans-serif;
   color: #1d685f;
   margin-bottom: 10px;
 }
